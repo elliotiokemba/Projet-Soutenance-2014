@@ -1,0 +1,14 @@
+INDEX VERSION 1.127+/home/romaric/Bureau/gestock/Projet-Soutenance-2014/.metadata/.plugins/org.eclipse.jdt.core
+4213777934.index
+1870921324.index
+3924363473.index
+1814467292.index
+3493388348.index
+3570186675.index
+1606112049.index
+3719727376.index
+966881004.index
+3427888842.index
+3644207613.index
+2329765606.index
+1615483382.index
